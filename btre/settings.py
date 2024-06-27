@@ -130,7 +130,13 @@ MESSAGE_TAGS = {
 }
 
 # Email Config
-EMAIL_HOST = 'smtp@gmail.com'
+EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'emknotty@gmail.com'
-EMAIL_HOST_PASSWORD = '
+EMAIL_HOST_PASSWORD = 'aqpa wenw aryj khzw'
+EMAIL_USE_TLS = True
+
+# Default primary key field type
+# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
+
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

@@ -40,73 +40,73 @@ The top bar contains info about the company, including contact phone number, con
 
 The header contains the navbar for pages: Home, About, and Featured Listings on the left. On the right, users who are not logged in can navigate to the Login page or the page to Register as a new user.
 
-<img src="/static/png/1homepagetop.png" width="250">
+<img src="/png/1homepagetop.png" width="250">
 
 #### Home page
 
 The top of the main home page shows a search field form for users, guest or registered, to search the available properties by keyword or phrase, city, US state or territory, number of bedrooms, and maximum price.
 
-<img src="/static/png/1homepagetop.png" width="250">
+<img src="/png/1homepagetop.png" width="250">
 
 Below the search form are some of the latest listings available, with some main details and a "More Info" button to see the individual listing page.
 
-<img src="/static/png/2homepagemiddle.png" width="250">
+<img src="/png/2homepagemiddle.png" width="250">
 
 At the bottom of the home page there is some more information about BT Real Estate and its services.
 
-<img src="/static/png/3homepagebottom.png" width="250">
+<img src="/png/3homepagebottom.png" width="250">
 
 #### About page
 
 The About page states the company's mission and objective, and includes a sidebar of the featured VIP employee/agent with a photo, name, and a short bio.
 
-<img src="/static/png/4aboutpage.png" width="250">
+<img src="/png/4aboutpage.png" width="250">
 
 #### Featured listings page
 
 The Featured Listings display the latest listings, in order from most recent to earliest. Each listing has a "More Info" button to view more details and inquire about the listing.
 
-<img src="/static/png/5featuredlistingspage.png" width="250">
+<img src="/png/5featuredlistingspage.png" width="250">
 
 Pagination on the featured listings page allows for 3 listings to show at any given time, and users may navigate the listings and see more by clicking either on the page number of one of the arrows on either side.
 
-<img src="/static/png/6pagination.png" width="250">
+<img src="/png/6pagination.png" width="250">
 
 #### Login and registration
 
 Users log in by entering their username and password.
 
-<img src="/static/png/7loginpage.png" width="250">
+<img src="/png/7loginpage.png" width="250">
 
 Registration requires users enter their first name, last name, username (if available), a valid email address, and a password.
 
-<img src="/static/png/8registerpage.png" width="250">
+<img src="/png/8registerpage.png" width="250">
 
 #### Logged In
 
 Once a user has logged in, the navbar on the right changes to allow the user to go to their dashboard or logout.
 
-<img src="/static/png/9loggedinnavbar.png" width="250">
+<img src="/png/9loggedinnavbar.png" width="250">
 
 #### User dashboard
 
 The user dashboard is for managing and tracking details about listing inquiries the user has made.
 
-<img src="/static/png/userdashboard.png" width="250">
+<img src="/png/userdashboard.png" width="250">
 
 #### Listings
 
 Featured listings show a main photo, the listing title or address, square feet, number of garages, number of bedrooms, number of bathrooms, the real estate agent listing the property, and how long ago the listing went up. To learn more about the listing, there is a "More Info" button at the bottom.
 
-<img src="/static/png/10listingmoreinfo.png" width="250">
+<img src="/png/10listingmoreinfo.png" width="250">
 
 Individual listing pages show more photos that can be viewed as a carousel.
 
-<img src="/static/png/11listingpagetop.png" width="250">
+<img src="/png/11listingpagetop.png" width="250">
 
 More details are displayed, along with a description on the property.
 
-<img src="/static/png/12listingpagebottom.png" width="250">
+<img src="/png/12listingpagebottom.png" width="250">
 
 #### Inquiring
 
@@ -114,7 +114,7 @@ Under the listing's real estate agent is a button to "Make an Inquiry". When cli
 
 If a logged in user has already made an inquiry on a particular property, a notification tells the user they have already sent an inquiry on this listing, and does not send the duplicate inquiry.
 
-<img src="/static/png/13inquirymodal.png" width="250">
+<img src="/png/13inquirymodal.png" width="250">
 
 ## Issues
 
